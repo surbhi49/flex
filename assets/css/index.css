@@ -1,0 +1,39 @@
+body{ margin:0;
+      padding:0;
+       }
+
+section{ display: flex;
+         float: right;
+         
+}
+          /* .rightside{  position:fixed;
+                       font-size:20px;
+                    
+                   }
+                        
+    
+        .nav{ width:200px;
+              height: 400px;
+              background-color:whitesmoke;
+                }
+        .nav ul li { list-style-type: none;
+                     text-decoration: none;
+                      font-size:15px;
+                       margin-top:1.5em;}*/
+            
+    
+
+          
+          
+          
+
+     .main{     justify-content: center;
+        display: flex;
+        flex-wrap: wrap;}
+        
+        
+     image{ margin:5px;}
+                
+
+
+        
